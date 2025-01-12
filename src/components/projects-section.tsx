@@ -19,16 +19,16 @@ const projects = [
     description: 'Full-stack web application with modern features',
     image: '/fsm.jpg',
     tags: ['React', 'Springboot', 'postgreSQL'],
-    // github: 'https://github.com/Kirushanthan03/AJ-Traders-frontend',
-    // demo: 'https://github.com/Kirushanthan03/AJ-traders-backend'
+    github: 'https://github.com/Kirushanthan03/fsm-client-main',
+    demo: 'https://github.com/Kirushanthan03/fsm-backend'
   },
   {
     title: 'microservice project for shopping',
     description: 'A microservice project for order processing using springboot',
     image: '/Ead.jpg',
     tags: [ 'Springboot', 'MySQL'],
-    // github: 'https://github.com/Kirushanthan03/AJ-Traders-frontend',
-    // demo: 'https://github.com/Kirushanthan03/AJ-traders-backend'
+    github: 'https://github.com/orgs/ead-uom-b20/repositories',
+    demo: 'https://github.com/orgs/ead-uom-b20/repositories'
   },
   // Add more projects...
 ]
