@@ -30,13 +30,13 @@ export default function Portfolio() {
       <footer className="bg-gray-950 text-gray-400 py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-center space-x-6 mb-8">
-            <Link href="https://github.com" className="hover:text-white transition-colors">
+          <Link href="https://github.com/Kirushanthan03" className="hover:text-white transition-colors">
               <Github className="h-6 w-6" />
             </Link>
-            <Link href="https://linkedin.com" className="hover:text-white transition-colors">
+            <Link href="https://www.linkedin.com/in/ravichandran-kirusanthan/" className="hover:text-white transition-colors">
               <Linkedin className="h-6 w-6" />
             </Link>
-            <Link href="mailto:example@email.com" className="hover:text-white transition-colors">
+            <Link href="mailto:kirusanthanravi90@gmail.com" className="hover:text-white transition-colors">
               <Mail className="h-6 w-6" />
             </Link>
           </div>
