@@ -41,7 +41,7 @@ export default function Portfolio() {
             </Link>
           </div>
           <p className="text-center text-sm">
-            © {new Date().getFullYear()} Your Name. All rights reserved.
+            © {new Date().getFullYear()} Kirusanthan Ravichandran. All rights reserved.
           </p>
         </div>
       </footer>
