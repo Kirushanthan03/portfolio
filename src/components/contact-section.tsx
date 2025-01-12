@@ -15,7 +15,7 @@ export default function ContactSection() {
     message: ''
   })
 
-  const handleChange = (e) => {
+  const handleChange = (e:React.ChangeEvent<HTMLInputElement>) => {
     const { id, value } = e.target
     setFormData(prev => ({
       ...prev,
@@ -23,7 +23,7 @@ export default function ContactSection() {
     }))
   }
 
-  const handleSubmit = (e) => {
+  const handleSubmit = (e:React.ChangeEvent<HTMLInputElement>) => {
     e.preventDefault()
     
     // Construct email body
