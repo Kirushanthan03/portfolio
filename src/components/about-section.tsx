@@ -110,7 +110,7 @@ I completed my academic internship at codelantic pvt ltd as a Intern Backend Sof
            </Card>
            <Card className="bg-primary/5 border-none">
               <CardContent className="p-6">
-                <div className="text-4xl font-bold text-primary mb-2">Codelantic </div>
+                <div className="text-4xl font-bold text-primary mb-2">Codelantic</div>
                 <div className="text-sm text-gray-600 dark:text-gray-300">Multinational Sotware Company</div>
               </CardContent>
            </Card>
