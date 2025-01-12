@@ -1,11 +1,11 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { motion, AnimatePresence } from 'framer-motion'
-import Link from 'next/link'
+import { motion} from 'framer-motion'
+
 import { Menu, X } from 'lucide-react'
 import { Button } from '@/components/ui/button'
-import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet'
+import { Sheet,  SheetTrigger } from '@/components/ui/sheet'
 
 const navItems = [
   { name: 'About', href: '#about' },

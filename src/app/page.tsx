@@ -1,9 +1,9 @@
 'use client'
 
-import { motion } from 'framer-motion'
+
 import Link from 'next/link'
-import { Github, Linkedin, Mail, Menu } from 'lucide-react'
-import { Button } from '@/components/ui/button'
+import { Github, Linkedin, Mail} from 'lucide-react'
+
 import HeroSection from '../components/hero-section'
 import AboutSection from '../components/about-section'
 import TechnicalSkills from '../components/technical-skills'

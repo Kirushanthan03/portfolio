@@ -1,5 +1,5 @@
 import { Card, CardContent } from '@/components/ui/card'
-import { Trophy, Users, Presentation, Brain } from 'lucide-react'
+
 
 const debatePoints = [
    "1st Runnerup in International Speech Competition-IPTP",

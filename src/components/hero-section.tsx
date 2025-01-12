@@ -1,9 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { ArrowRight } from 'lucide-react';
-import { Button } from '@/components/ui/button';
-import cover from '../cover.jpg'
+
 import { Github, Linkedin, Mail } from 'lucide-react';
 
 export default function HeroSection() {

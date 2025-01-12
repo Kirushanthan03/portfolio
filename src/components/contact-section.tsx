@@ -15,7 +15,7 @@ export default function ContactSection() {
     message: ''
   })
 
-  const handleChange = (e:any) => {
+  const handleChange = (e) => {
     const { id, value } = e.target
     setFormData(prev => ({
       ...prev,
@@ -23,7 +23,7 @@ export default function ContactSection() {
     }))
   }
 
-  const handleSubmit = (e:any) => {
+  const handleSubmit = (e) => {
     e.preventDefault()
     
     // Construct email body

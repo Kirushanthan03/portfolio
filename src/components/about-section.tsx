@@ -3,7 +3,7 @@
 import { motion } from 'framer-motion'
 import { Card, CardContent } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
-import { Code2, Palette, Brain, Rocket } from 'lucide-react'
+
 
 // const features = [
 //   {
